@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[MIKAMONLINE]]></title>
         <description><![CDATA[MIKAMONLINE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mikamonline.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 08:15:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 09:06:39 GMT</lastBuildDate>
+        <atom:link href="http://mikamonline.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://mikamonline.com/b105396d-aad9-4f62-b32f-0c56bc8d941a/index.html</link>
+            <guid isPermaLink="false">b105396d-aad9-4f62-b32f-0c56bc8d941a</guid>
+            <pubDate>Tue, 08 Mar 2016 09:05:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>mikamonline</p>]]></description>
-            <link>undefinedbc8e135c-f953-4c11-98f0-9778906dbc5e/index.html</link>
+            <link>http://mikamonline.com/bc8e135c-f953-4c11-98f0-9778906dbc5e/index.html</link>
             <guid isPermaLink="false">bc8e135c-f953-4c11-98f0-9778906dbc5e</guid>
             <pubDate>Tue, 08 Mar 2016 08:14:23 GMT</pubDate>
         </item>
