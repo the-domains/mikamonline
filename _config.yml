@@ -1,28 +1,40 @@
-name: MIKAMONLINE
 favicon: null
-layout_spectrum: 0.5540906977839768
-typography_spectrum: 0.7389001501724124
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: MIKAMONLINE
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#b8b6a9'
-    - '#ab9997'
-    - '#cbdde1'
-    - '#9d695b'
-    - '#452925'
-  brandStrength: 0.9207164959516376
-  lightness: 0.43727512820623815
-  saturation: 0
-  rhythmicContrast: 0.26805396704003215
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0
+  brandStrength: 0.9207164959516376
+  lightness: 0.4372751282062382
+  brandColors:
+    - '#383226'
+    - '#FFFFFF'
+    - '#6D675B'
+    - '#A19C91'
+    - '#BFBCB3'
+  rhythmicContrast: 0.2680539670400321
+typography_spectrum: 0.7389001501724124
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5540906977839768
+analytics:
+  twitter: null
+  google: null
+  facebook: null
